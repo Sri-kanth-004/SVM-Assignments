@@ -1,0 +1,2 @@
+# SVM-Assignments
+Forestfires, Salarydata
