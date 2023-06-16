@@ -1,7 +1,9 @@
 # SVM-Assignments
-Forestfires, Salarydata
+1) Salarydata
+2) Forestfires,
 
-1) classify the Size_Categorie using SVM
+Questions Below :
+classify the Size_Categorie using SVM
 
 month	month of the year: 'jan' to 'dec'
 day	day of the week: 'mon' to 'sun'
